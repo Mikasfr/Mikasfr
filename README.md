@@ -3,7 +3,7 @@
 <br>
 - 🔥 A programming student focused on learning development
 
-- 🔭 I’m currently working at [GGNET TELECOM](linkedin.com/company/ggnet-telecom)
+- 🔭 I’m currently working at [GEINFO]
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Python**
 
