@@ -3,9 +3,7 @@
 <br>
 - 🔥 A programming student focused on learning development
 
-- 🔭 I’m currently working at [GEINFO]
-
-- 💬 Ask me about **JavaScript, HTML, CSS, Python**
+- 💬 Ask me about **JavaScript, HTML, CSS, Python, React**
 
 - ⚡ **systems analysis and development student**
 
